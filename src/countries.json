@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Australia",
+      "code": "AU"
+    },
+    {
+      "name": "Canada",
+      "code": "CA"
+    },
+    {
+        "name": "Afghanistan",
+        "code": "AF"
+    },
+    {
+        "name": "Aland Islands",
+        "code": "AI"
+    },
+    {
+        "name": "Albania",
+        "code": "AB"
+    },
+    {
+        "name": "Algeria",
+        "code": "AL"
+    },
+    {
+        "name": "Andorra",
+        "code": "AN"
+    },
+    {
+        "name": "Angola",
+        "code": "AN"
+    }
+  ]
+  

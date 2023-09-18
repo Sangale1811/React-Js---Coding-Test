@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(239, 235, 235);
+    margin-top: 60px;
+}
+h1{
+    font-size: 35px;
+}
+input{
+    border-radius: 5px;
+    width: 13%;
+    height: 25px;
+    border-color: black;
+}
+.search-bar{
+    font-size: 17px;
+    padding-left: 9px;
+}
+button{
+    width: 4%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 3px;
+    border-color: black;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(204, 202, 202, 0.958);
+}
+p{
+    font-size: 17px;
+    color: black;
+}
